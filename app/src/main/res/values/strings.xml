@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Trash Tracker</string>
+    <string name="get_started_text">Show your\n responsibility\n towards society</string>
+    <string name="forgot_password_msg">Don\'t worry! it happens. Please enter the email address associated with your account.</string>
+    <string name="on_submit_msg">Check out your mailbox, you will receive an email containing link where you can reset your password</string>
+    <string name="map_api_key">AIzaSyASLhrpzw84OqOXLhpLJItbSYqv8zFo8s0</string>
+    <string name="googleSignInClient">107019919644-tm3uackh7e45afv000a3kkdobid0fjuq.apps.googleusercontent.com</string>
+
+</resources>
