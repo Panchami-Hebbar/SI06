@@ -29,8 +29,8 @@ object DrawPieChart {
 
     fun loadPieChartData(pieChart: PieChart,generalWaste:Float,plasticWaste:Float) {
         val entries: ArrayList<PieEntry> = ArrayList()
-        entries.add(PieEntry(generalWaste, "General Waste"))
-        entries.add(PieEntry(plasticWaste, "Plastic Waste"))
+        entries.add(PieEntry(generalWaste, "dry Waste"))
+        entries.add(PieEntry(plasticWaste, "wet Waste"))
         val colors= ArrayList<Int>()
         colors.add(Color.parseColor("#4A91F2"))
         colors.add(Color.parseColor("#964B00"))

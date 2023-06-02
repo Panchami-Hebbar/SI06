@@ -22,9 +22,9 @@ class AddGarbageActivity : AppCompatActivity() {
 
         binding?.selectWasteType?.setOnCheckedChangeListener { _, i ->
             selectedType = if (i == R.id.generalWaste) {
-                "generalWaste"
+                "dryWaste"
             } else {
-                "plasticWaste"
+                "wetWaste"
             }
         }
         binding?.selectWasteAmount?.setOnCheckedChangeListener { _, i ->

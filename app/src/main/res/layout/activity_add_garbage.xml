@@ -54,7 +54,7 @@
                 android:button="@null"
                 android:checked="true"
                 android:gravity="center"
-                android:text="General Waste"
+                android:text="Dry Waste"
                 android:textColor="@drawable/button_text_checked_color"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -69,7 +69,7 @@
                 android:button="@null"
                 android:checked="false"
                 android:gravity="center"
-                android:text="Plastic Waste"
+                android:text="wet Waste"
                 android:textColor="@drawable/button_text_checked_color"
                 android:textSize="20sp"
                 android:textStyle="bold" />
